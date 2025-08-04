@@ -1,0 +1,32 @@
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# AI and Machine Learning
+google-genai>=0.3.0
+openai>=1.0.0
+
+# Office Automation (Windows)
+pywin32>=306  # For PowerPoint COM automation
+python-pptx>=0.6.21  # Fallback PowerPoint creation
+
+# Data Integration and Analysis (New - for DEV.to inspired features)
+pandas>=2.0.0  # For data processing and analysis
+gspread>=5.10.0  # For Google Sheets integration
+google-auth>=2.20.0  # For Google authentication
+openpyxl>=3.1.0  # For Excel file support
+
+# File Processing
+# zipfile-tools  # If needed for advanced zip handling
+
+# Development and Utilities
+requests>=2.31.0
+Pillow>=10.0.0  # For image processing
+
+# Optional: Enhanced UI Components
+streamlit-extras>=0.3.0  # For advanced UI components
+plotly>=5.15.0  # For interactive charts
+
+# Optional: Future Enhancements
+# composio-crewai>=0.1.0  # For Composio tool integration (future)
+# langchain-openai>=0.1.0  # For advanced AI workflows (future)
