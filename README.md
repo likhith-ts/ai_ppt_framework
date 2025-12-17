@@ -166,7 +166,7 @@ class OpenAIClient(BaseAIClient):
 - [Slide Builder Tutorial](docs/slide_builders.md)
 - [API Reference](docs/api_reference.md)
 - [Migration Guide](docs/migration.md)
-
+<!--
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -179,7 +179,7 @@ class OpenAIClient(BaseAIClient):
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+-->
 ## 🙏 Acknowledgments
 
 - Google Gemini AI for intelligent content analysis
